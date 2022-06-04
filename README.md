@@ -34,4 +34,5 @@ cd into the todoapp directory, you can run:
 Open [http://localhost:8000] to view it in your browser.
 
 
+## credits:
 Original tutorial by Harvey Winters: https://www.youtube.com/watch?v=OSYAjTG46EI&t=1100s
