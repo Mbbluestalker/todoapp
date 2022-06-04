@@ -1,10 +1,11 @@
 # todoapp
 
 # Technology Used
-React
-Django
-Django Rest Framework
-React Bootstrap
+
+React ||
+Django ||
+Django Rest Framework ||
+React Bootstrap ||
 React Icons
 
 
