@@ -1,5 +1,13 @@
 # todoapp
 
+# Technology Used
+React
+Django
+Django Rest Framework
+React Bootstrap
+React Icons
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
